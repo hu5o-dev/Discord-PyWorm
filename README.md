@@ -1,4 +1,5 @@
-# DiscordMessager
-Messages all friends available on discord with discord token
+# Discord PyWorm
+Spread malware to all available victims using discords user token api.
 
-please run: pip install tkinter
+# NOTE: pip install tkinter 
+Install tkinter before running the script.
