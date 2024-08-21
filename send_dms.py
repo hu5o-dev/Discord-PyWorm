@@ -7,7 +7,7 @@ from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 
 def main():
-    # Hide the root window
+    
     Tk().withdraw()
 
     token = input("Enter your Discord token: ")
